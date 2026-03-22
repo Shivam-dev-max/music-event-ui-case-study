@@ -23,4 +23,4 @@ Designed a clean and engaging interface with event cards, artist highlights, and
 (Add your design images here)
 
 ## Figma Link
-(Add your Figma link here)
+https://www.figma.com/design/TCowB7KlIITlxifNz1cuk8?node-id=0-1
