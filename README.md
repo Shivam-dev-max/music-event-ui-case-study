@@ -20,7 +20,7 @@ Designed a clean and engaging interface with event cards, artist highlights, and
 - Ticket booking CTA
 
 ## Screenshots
-(Add your design images here)
+![Music UI](https://drive.google.com/uc?export=view&id=19EOkV8l7UOl7MSFGhr10icllHpMStksp)
 
 ## Figma Link
 https://www.figma.com/design/TCowB7KlIITlxifNz1cuk8?node-id=0-1
